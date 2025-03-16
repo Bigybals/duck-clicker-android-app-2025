@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Duck Clicker</string>
-    <string name="app_title">DUCK CLICKER</string>
+    <string name="app_title">Duck Clicker</string>
     <string name="duck_description">Canard cliquable</string>
     <string name="click_counter">Clics : %1$d</string>
-    <string name="instruction_text">Cliquez sur le canard pour le faire grossir !</string>
+    <string name="instruction_text">Clique sur le canard pour le faire grossir!</string>
 </resources>
